@@ -1,2 +1,3 @@
-Hello, Git
-success Git upload.
+1.Hello, Git
+2.success Git upload.
+3.success Git clone.
