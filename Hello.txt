@@ -1,4 +1,3 @@
 Hello, Git
 success Git upload.
-revert modified Git
-ldkjasldjlksajd 
+revert modified Git 
